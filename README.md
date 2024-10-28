@@ -48,24 +48,20 @@
     <img width="48" height="48" src="https://img.icons8.com/color/48/react-native.png" alt="React"/>
     <img width="48" height="48" src="https://img.icons8.com/color/48/tailwind_css.png" alt="Tailwind"/>
     <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap"/>
-  </div>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 10px;">
+
     <!-- Backend & Databases -->
     <img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js"/>
     <img width="48" height="48" src="https://img.icons8.com/color/48/php.png" alt="PHP"/>
     <img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/>
     <img width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB"/>
     <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-color-tal-revivo.png" alt="Django"/>
-    <img width="48" height="48" src="https://img.icons8.com/color/48/laravel.png" alt="Laravel"/>
-  </div>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 10px;">
+
     <!-- Programming Languages -->
     <img width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png" alt="C"/>
     <img width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++"/>
     <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="Python"/>
     <img width="48" height="48" src="https://img.icons8.com/color/48/visual-basic.png" alt="VB.NET"/>
-  </div>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 10px;">
+
     <!-- Tools -->
     <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="Git"/>
     <img width="48" height="48" src="https://img.icons8.com/color/48/github--v1.png" alt="GitHub"/>
