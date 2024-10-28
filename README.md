@@ -3,7 +3,7 @@
 ### 🌟 A passionate Web Developer and Gamer from India
 
 - 💻 I’m currently learning **React.js & Node.js**
-- 📺 I'm working on a large fullstack project like Freelancing and creating YouTube videos about gaming and development.
+- 📺 I'm working on a large fullstack project like Freelancing and creating YouTube videos about gaming.
 
 ---
 
@@ -40,7 +40,7 @@
 
 ### 🛠️ Languages & Tools
 <div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
+  <div style="display: flex; justify-content: center; gap: 30px;">
     <!-- Frontend -->
     <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5"/>
     <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/>
