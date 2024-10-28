@@ -40,7 +40,7 @@
 
 ### 🛠️ Languages & Tools
 <div align="center">
-  <div style="display: flex; justify-content: center; gap: 30px;">
+  <div style="display: flex; justify-content: center; gap: 50px;">
     <!-- Frontend -->
     <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5"/>
     <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/>
@@ -53,7 +53,6 @@
     <img width="48" height="48" src="https://img.icons8.com/color/48/php.png" alt="PHP"/>
     <img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/>
     <img width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB"/>
-    <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-color-tal-revivo.png" alt="Django"/>
     <!-- Programming Languages -->
     <img width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png" alt="C"/>
     <img width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++"/>
