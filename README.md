@@ -39,7 +39,7 @@
 ---
 
 ### 🛠️ Languages & Tools
-<div align="center" style="padding: 20px; display: flex; flex-wrap: wrap; justify-content: center; gap: 25px; margin-bottom: 20px;">
+<div align="center" style="padding: 20px; display: flex; flex-wrap: wrap; justify-content: center; gap: 50px; margin-bottom: 20px;">
         <!-- Frontend -->
           <img width="50" height="50" src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5"/>
           <img width="50" height="50" src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/>
