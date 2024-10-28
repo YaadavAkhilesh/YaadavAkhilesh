@@ -17,11 +17,6 @@ Here are some ideas to get you started:
 -->
 
 
-
-
-# 👋 Hi, I'm Akhil Yadav
-
-### 🌟 A passionate Full Stack Developer and Gaming Enthusiast from India
 - 💻 I’m currently learning **React.js & Node.js**
 - 📺 I'm working on a large fullstack project like Freelancing and creating YouTube videos about gaming and development.
 
