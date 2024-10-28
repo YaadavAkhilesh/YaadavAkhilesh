@@ -39,28 +39,35 @@
 ---
 
 ### 🛠️ Languages & Tools
-<div align="center">
-  <div style="display: flex; flex-wrap: wrap;justify-content: center; gap: 50px;">
-    <!-- Frontend -->
-    <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5"/>
-    <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/>
-    <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript"/>
-    <img width="48" height="48" src="https://img.icons8.com/color/48/react-native.png" alt="React"/>
-    <img width="48" height="48" src="https://img.icons8.com/color/48/tailwind_css.png" alt="Tailwind"/>
-    <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap"/>
-    <!-- Backend & Databases -->
-    <img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js"/>
-    <img width="48" height="48" src="https://img.icons8.com/color/48/php.png" alt="PHP"/>
-    <img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/>
-    <img width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB"/>
-    <!-- Programming Languages -->
-    <img width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png" alt="C"/>
-    <img width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++"/>
-    <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="Python"/>
-    <!-- Tools -->
-    <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="Git"/>
-    <img width="48" height="48" src="https://img.icons8.com/color/48/github--v1.png" alt="GitHub"/>
-    <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code"/>
+<div align="center" style="padding: 20px;">
+  <!-- Frontend -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px; margin-bottom: 20px;">
+    <img width="50" height="50" src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5"/>
+    <img width="50" height="50" src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/>
+    <img width="50" height="50" src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript"/>
+    <img width="50" height="50" src="https://img.icons8.com/office/48/react.png" alt="React"/>
+    <img width="50" height="50" src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap"/>
+  </div>
+  <!-- Backend -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px; margin-bottom: 20px;">
+    <img width="50" height="50" src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js"/>
+    <img width="50" height="50" src="https://img.icons8.com/officel/48/php-logo.png" alt="PHP"/>
+    <img width="50" height="50" src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/>
+    <img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" alt="MongoDB"/>
+  </div>
+  <!-- Programming Languages -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px; margin-bottom: 20px;">
+    <img width="50" height="50" src="https://img.icons8.com/color/48/c-programming.png" alt="C"/>
+    <img width="50" height="50" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++"/>
+    <img width="50" height="50" src="https://img.icons8.com/color/48/python--v1.png" alt="Python"/>
+    <img width="50" height="50" src="https://img.icons8.com/color/48/visual-basic.png" alt="VB.NET"/>
+  </div>
+  <!-- Tools -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px; margin-bottom: 20px;">
+    <img width="50" height="50" src="https://img.icons8.com/color/48/git.png" alt="Git"/>
+    <img width="50" height="50" src="https://img.icons8.com/fluency/48/github.png" alt="GitHub"/>
+    <img width="50" height="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code"/>
+    <img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="Postman"/>
   </div>
 </div>
 
