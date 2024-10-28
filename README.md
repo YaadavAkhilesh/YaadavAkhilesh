@@ -40,7 +40,7 @@
 
 ### 🛠️ Languages & Tools
 <div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
     <!-- Frontend -->
     <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5"/>
     <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/>
@@ -62,7 +62,6 @@
     <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="Git"/>
     <img width="48" height="48" src="https://img.icons8.com/color/48/github--v1.png" alt="GitHub"/>
     <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code"/>
-    <img width="48" height="48" src="https://img.icons8.com/color/48/postman-api.png" alt="Postman"/>
   </div>
 </div>
 
