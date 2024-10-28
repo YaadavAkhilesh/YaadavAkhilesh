@@ -39,7 +39,7 @@
 ---
 
 ### 🛠️ Languages & Tools
-<div align="center" style="padding: 20px; display: flex; flex-wrap: wrap; justify-content: center; gap: 50px; margin-bottom: 20px;">
+<div align="center" style="padding: 50px; display: flex; flex-wrap: wrap; justify-content: center; gap: 50px; margin-bottom: 20px;">
         <!-- Frontend -->
           <img width="50" height="50" src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5"/>
           <img width="50" height="50" src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/>
@@ -51,7 +51,6 @@
           <img width="50" height="50" src="https://img.icons8.com/officel/48/php-logo.png" alt="PHP"/>
           <img width="50" height="50" src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/>
           <img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" alt="MongoDB"/>
-        <!-- </div> -->
         <!-- Programming Languages -->
           <img width="50" height="50" src="https://img.icons8.com/color/48/c-programming.png" alt="C"/>
           <img width="50" height="50" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++"/>
@@ -61,8 +60,7 @@
           <img width="50" height="50" src="https://img.icons8.com/fluency/48/github.png" alt="GitHub"/>
           <img width="50" height="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code"/>
           <img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="Postman"/>
-        </div>
-      </div>
+</div>
       
 ---
 
