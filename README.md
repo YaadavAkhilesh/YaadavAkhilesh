@@ -56,9 +56,9 @@
 ---
 
 ### 🔥 Popular Repositories
-[![Tic-Tac-Toe](https://github-readme-stats.vercel.app/api/pin/?username=YaadavAkhilesh&repo=Tic-Tac-Toe&theme=radical)](https://github.com/YaadavAkhilesh/Tic-Tac-Toe)
-[![Harry-Potter](https://github-readme-stats.vercel.app/api/pin/?username=YaadavAkhilesh&repo=Harry-Potter&theme=radical)](https://github.com/YaadavAkhilesh/Harry-Potter)
+[![Weather-Forecaster](https://github-readme-stats.vercel.app/api/pin/?username=YaadavAkhilesh&repo=Weather-Forecaster&theme=radical)](https://github.com/YaadavAkhilesh/Weather-Forecaster)
 [![Currency-Converter](https://github-readme-stats.vercel.app/api/pin/?username=YaadavAkhilesh&repo=Currency-Converter&theme=radical)](https://github.com/YaadavAkhilesh/Currency-Converter)
+[![Tic-Tac-Toe](https://github-readme-stats.vercel.app/api/pin/?username=YaadavAkhilesh&repo=Tic-Tac-Toe&theme=radical)](https://github.com/YaadavAkhilesh/Tic-Tac-Toe)
 [![Netflix-Clone](https://github-readme-stats.vercel.app/api/pin/?username=YaadavAkhilesh&repo=Netflix-Clone&theme=radical)](https://github.com/YaadavAkhilesh/Netflix-Clone)
 
 ---
