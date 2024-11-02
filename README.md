@@ -5,6 +5,7 @@
 - 💻 I’m currently learning **React.js & Node.js**
 - 📺 I'm working on a large fullstack project like Freelancing and creating YouTube videos about gaming.
 
+[![](https://visitcount.itsvg.in/api?id=YaadavAkhilesh&icon=0&color=0)](https://visitcount.itsvg.in)
 ---
 
 ### 👨‍💻 About Me
