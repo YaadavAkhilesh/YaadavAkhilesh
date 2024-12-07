@@ -1,9 +1,9 @@
 ## Hi, I'm Akhilesh Yadav 👋
 
-### 🌟 A passionate Web Developer and Gamer from India
+### 🌟 A passionate Web Developer
 
 - 💻 I’m currently learning **React.js & Node.js**
-- 📺 I'm working on a large fullstack project like Freelancing and creating YouTube videos about gaming.
+- 📺 I'm working on a large fullstack project like Freelancing.
 
 [![](https://visitcount.itsvg.in/api?id=YaadavAkhilesh&icon=0&color=0)](https://visitcount.itsvg.in)
 ---
@@ -11,11 +11,9 @@
 ### 👨‍💻 About Me
 - 🌱 I’m currently learning **React.js & Node.js**
 - 👯 I’m looking to collaborate on **Web Development Projects**
-- 🎮 Gaming Video Creator
 
 **Ask me about**:
 - Web development
-- React
 - Frontend development
 - Backend development
 
@@ -31,9 +29,6 @@
   </a>
   <a href="https://www.instagram.com/akhil_yadav972?igsh=MW14NGMxOTY3ZTh0ZA==" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://youtube.com/@lordakhilgaming3375?si=DerW7D2QPkekufQV" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
 
