@@ -9,10 +9,10 @@
 ---
 
 ### 👨‍💻 About Me
-- 🌱 I’m currently learning **React.js & Node.js**
-- 👯 I’m looking to collaborate on **Web Development Projects**
+- 🌱 I’m currently learning **Data Science**
 
 **Ask me about**:
+- Data Science
 - Web development
 - Frontend development
 - Backend development
