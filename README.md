@@ -1,9 +1,9 @@
 ## Hi, I'm Akhilesh Yadav 👋
 
-### 🌟 A passionate Web Developer
+### 🌟 A passionate Developer
 
-- 💻 I’m currently learning **React.js & Node.js**
-- 📺 I'm working on a large fullstack project like Freelancing.
+- 💻 I’m currently learning **Python**
+- 📺 I'm working on a large fullstack project like Freelancing website.
 
 [![](https://visitcount.itsvg.in/api?id=YaadavAkhilesh&icon=0&color=0)](https://visitcount.itsvg.in)
 ---
