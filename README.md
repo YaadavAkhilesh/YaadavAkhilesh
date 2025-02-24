@@ -2,7 +2,7 @@
 
 ### 🌟 A passionate Developer
 
-- 💻 I’m currently learning **Python for Data Science**
+- 💻 I’m currently learning **Python libraries for Data Science**
 - 📺 I'm working on a large fullstack project like Freelancing website.
 
 [![](https://visitcount.itsvg.in/api?id=YaadavAkhilesh&icon=0&color=0)](https://visitcount.itsvg.in)
