@@ -9,7 +9,7 @@
 
 ---
 
-### 👨‍\U0001F4BB About Me
+### About Me
 - 🏆 Passionate about turning data into actionable insights
 - 🚀 Eager to build intelligent systems using data
 - ✨ Goal: To become a skilled **Data Scientist** who solves real-world problems
