@@ -1,19 +1,23 @@
 ## Hi, I'm Akhilesh Yadav 👋
 
-### 🌟 A passionate Developer
+### ✨ Aspiring Data Scientist | Passionate Developer
 
-- 💻 I’m currently learning **Python libraries for Data Science**
-- 📺 I'm working on a fullstack project like Invoice Management website.
+- 💻 I’m currently pursuing **M.Sc. in Data Science**
+- 📖 Currently focused on **Mathematics, Statistics, and Machine Learning**
 
 [![](https://visitcount.itsvg.in/api?id=YaadavAkhilesh&icon=0&color=0)](https://visitcount.itsvg.in)
+
 ---
 
-### 👨‍💻 About Me
-- 🎯 Dream to become a **Data Scientist**
+### 👨‍\U0001F4BB About Me
+- 🏆 Passionate about turning data into actionable insights
+- 🚀 Eager to build intelligent systems using data
+- ✨ Goal: To become a skilled **Data Scientist** who solves real-world problems
 
 **Ask me about**:
-- Data Science
-- Web development
+- Data Science & Machine Learning
+- Web Development
+- Data Visualization
 
 ---
 
@@ -34,17 +38,16 @@
 
 ### 🛠️ Languages & Tools
 
-#### 🚀 AI & Data Science
+#### 🚀 AI, Machine Learning & Data Science
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-FF8C00?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-FF9A8B?style=for-the-badge&logo=seaborn&logoColor=white" />
   <img src="https://img.shields.io/badge/Plotly-3F4D97?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
 
 #### 📊 Data Analytics & Visualization
@@ -110,4 +113,4 @@
 
 ---
 
-Feel free to reach out or explore my repositories. Happy coding! 🎉
+Feel free to explore my repositories and connect with me to collaborate on exciting Data Science projects! ✨
