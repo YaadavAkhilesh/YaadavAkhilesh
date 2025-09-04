@@ -73,7 +73,7 @@
 
 | Project | Tech Stack | Description | Link |
 |---------|------------|-------------|------|
-| **Quick Invoice** | React, Node.js, MongoDB, Razorpay, OTP Auth | Web app for vendors to create & manage invoices with AI features | [Repo](https://github.com/YaadavAkhilesh/Quick-Invoice) |
+| **Quick Invoice** | React, Node.js, MongoDB, Razorpay, OTP Auth | Web app for vendors to create & manage invoices with AI features | [Repo](https://github.com/YaadavAkhilesh/Quick_Invoice) |
 | **FreelaxPro** | HTML, CSS, JS, PHP, MySQL | Freelancing platform for projects & services | [Repo](https://github.com/YaadavAkhilesh/Freelance-Management-Platform) |
 | **Currency Converter** | HTML, CSS, JS, API | Convert currencies using live API | [Repo](https://github.com/YaadavAkhilesh/Currency-Converter) |
 
