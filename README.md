@@ -15,7 +15,7 @@
 - 🎯 Goal: To become a skilled **Data Scientist** who solves real-world problems
 - 💬 Ask me about **Data Science, Machine Learning, Web Development** 
 
-[![](https://visitcount.itsvg.in/api?id=YaadavAkhilesh&icon=0&color=0)](https://visitcount.itsvg.in)
+![Visitor Count](https://profile-counter.glitch.me/YaadavAkhilesh/count.svg)
 
 ---
 
