@@ -1,9 +1,15 @@
-## Hi, I'm Akhilesh Yadav 👋
+<h1 align="center">Hi 👋, I'm Akhilesh Yadav</h1>
+<h3 align="center">🚀 Aspiring Data Scientist | Passionate Developer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&center=true&vCenter=true&lines=Data+Science+Enthusiast;Machine+Learning+Explorer;Full+Stack+Developer;Always+Learning+New+Things">
+</p>
 
 ### ✨ Aspiring Data Scientist | Passionate Developer
 
 - 💻 I’m currently pursuing **M.Sc. in Data Science**
 - 📖 Currently focused on **Mathematics, Statistics, and Machine Learning**
+- ⚡ Fun fact: I’m a Gamer & love to play BGMI and strategy-based games
 
 [![](https://visitcount.itsvg.in/api?id=YaadavAkhilesh&icon=0&color=0)](https://visitcount.itsvg.in)
 
