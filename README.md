@@ -103,7 +103,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YaadavAkhilesh&theme=tokyonight" height="150"/>
 </p>
 
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YaadavAkhilesh&show_icons=true&theme=radical" alt="Akhil Yadav's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaadavAkhilesh&layout=compact&theme=radical" alt="Top Languages" />
 </p>
