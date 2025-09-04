@@ -24,7 +24,7 @@
   <a href="mailto:yadavakhil766@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/akhilesh-yadav-5a0955310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+  <a href="https://www.linkedin.com/in/akhilesh-yadav88/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/akhil_yadav972?igsh=MW14NGMxOTY3ZTh0ZA==" target="_blank">
@@ -103,6 +103,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YaadavAkhilesh&theme=tokyonight" height="150"/>
 </p>
 
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=YaadavAkhilesh&show_icons=true&theme=radical" alt="Akhil Yadav's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaadavAkhilesh&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YaadavAkhilesh&theme=react-dark"/>
 </p>
@@ -111,11 +116,6 @@
 
 ## 🏆 GitHub Achievements  
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YaadavAkhilesh&theme=radical&no-frame=true&margin-w=15)  
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YaadavAkhilesh&show_icons=true&theme=radical" alt="Akhil Yadav's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaadavAkhilesh&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ---
 
