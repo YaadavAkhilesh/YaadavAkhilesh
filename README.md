@@ -16,7 +16,6 @@
 - 💬 Ask me about **Data Science, Machine Learning, Web Development** 
 
 ![Profile views](https://komarev.com/ghpvc/?username=YaadavAkhilesh&label=Visitors&color=green&style=flat)
-![Profile views](https://komarev.com/ghpvc/?username=YaadavAkhilesh&label=👀%20Visitors&color=ff69b4&style=plastic)
 
 ---
 
