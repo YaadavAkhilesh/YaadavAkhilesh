@@ -15,7 +15,8 @@
 - 🎯 Goal: To become a skilled **Data Scientist** who solves real-world problems
 - 💬 Ask me about **Data Science, Machine Learning, Web Development** 
 
-![Profile views](https://komarev.com/ghpvc/?username=YaadavAkhilesh&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+![Profile views](https://komarev.com/ghpvc/?username=YaadavAkhilesh&label=Visitors&color=green&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=YaadavAkhilesh&label=👀%20Visitors&color=ff69b4&style=plastic)
 
 ---
 
