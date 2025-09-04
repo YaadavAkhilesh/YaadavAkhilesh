@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Aspiring Data Scientist | Passionate Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&center=true&vCenter=true&lines=Data+Science+Enthusiast;Machine+Learning+Explorer;Full+Stack+Developer;Always+Learning+New+Things">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&center=true&vCenter=true&lines=Data+Science+Enthusiast;Machine+Learning+Explorer;Always+Learning+New+Things">
 </p>
 
 ### ✨ Aspiring Data Scientist | Passionate Developer
