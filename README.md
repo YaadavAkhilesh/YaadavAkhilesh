@@ -19,24 +19,6 @@
 
 ---
 
-### 📬 Connect with Me
-<p>
-  <a href="mailto:yadavakhil766@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/akhilesh-yadav88/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/akhil_yadav972?igsh=MW14NGMxOTY3ZTh0ZA==" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://youtube.com/@lordakhilgaming3375" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-</p> 
-
----
-
 ### 🛠️ Tech Stack
 
 #### 🚀 Data Science & Machine Learning
