@@ -92,29 +92,6 @@
 
 ---
 
-## 🏆 GitHub Achievements  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YaadavAkhilesh&theme=radical&no-frame=true&margin-w=15)  
-
----
-
-### 🔥 Popular Repositories
-<p>
-  <a href="https://github.com/YaadavAkhilesh/Weather-Forecaster">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YaadavAkhilesh&repo=Weather-Forecaster&theme=radical" />
-  </a>
-  <a href="https://github.com/YaadavAkhilesh/Currency-Converter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YaadavAkhilesh&repo=Currency-Converter&theme=radical" />
-  </a>
-  <a href="https://github.com/YaadavAkhilesh/Tic-Tac-Toe">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YaadavAkhilesh&repo=Tic-Tac-Toe&theme=radical" />
-  </a>
-  <a href="https://github.com/YaadavAkhilesh/Netflix-Clone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YaadavAkhilesh&repo=Netflix-Clone&theme=radical" />
-  </a>
-</p>
-
----
-
 ### 💖 Support
 If you like my work, consider giving a ⭐️ to my repositories!  
 
