@@ -10,7 +10,8 @@
 ### ✨ About Me
 
 - 💻 I’m currently pursuing **M.Sc. in Data Science**  
-- 📖 Currently focused on **Data Analysis Projects, Mathematics, Statistics, and Machine Learning**  
+- 📖 Currently focused on **Data Analysis Projects, Mathematics, Statistics, and Machine Learning**
+- 📊 I enjoy working with **real-world datasets** and creating meaningful insights   
 - ⚡ Fun fact: I’m a Gamer 🎮 (BGMI & strategy-based games lover)  
 - 🎯 Goal: To become a skilled **Data Scientist** who solves real-world problems
 - 💬 Ask me about **Data Science & Web Development** 
@@ -28,9 +29,7 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-FF8C00?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-FF9A8B?style=for-the-badge&logo=seaborn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly-3F4D97?style=for-the-badge&logo=plotly&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
 
 #### 📊 Data Analytics & Visualization
@@ -55,9 +54,11 @@
 
 | Project | Tech Stack | Description | Link |
 |---------|------------|-------------|------|
+| **Indian E-Commerce Sales Analysis** | Python, Pandas, NumPy, Matplotlib, Seaborn | Analyzed sales trends, customer behavior, and delivery performance using real-world Indian e-commerce data |  [Repo](https://github.com/YaadavAkhilesh/Indian-E-Commerce-Sales-Analysis) |
+| **Indian Startup Funding Analysis** | Python, Pandas, EDA, Visualization | Explored startup funding trends across sectors and cities in India using cleaned public datasets |  [Repo](https://github.com/YaadavAkhilesh/Indian-Statup-Funding-Analysis) |
+| **Public Data Dashboard** | Power BI, Excel, Public Datasets | Built interactive dashboards to visualize key metrics and support data-driven decision-making | [Repo](https://github.com/YaadavAkhilesh/Public-Data-Dashboard) |
 | **Quick Invoice** | React, Node.js, MongoDB, Razorpay, OTP Auth | Web app for vendors to create & manage invoices | [Repo](https://github.com/YaadavAkhilesh/Quick_Invoice) |
 | **FreelaxPro** | HTML, CSS, JS, PHP, MySQL | Freelancing platform for projects & services | [Repo](https://github.com/YaadavAkhilesh/Freelance-Management-Platform) |
-| **Currency Converter** | HTML, CSS, JS, API | Convert currencies using live API | [Repo](https://github.com/YaadavAkhilesh/Currency-Converter) |
 
 ---
 
