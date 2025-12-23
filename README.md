@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Akhilesh Yadav</h1>
 <h3 align="center">🚀 Aspiring Data Analyst | Data Scientist</h3>
+<p align="center">
+  🌐 <a href="https://yaadavakhilesh.github.io" target="_blank"><b>Portfolio</b></a> &nbsp;|&nbsp;
+  💼 <a href="https://www.linkedin.com/in/akhilesh-yadav88/" target="_blank"><b>LinkedIn</b></a> &nbsp;|&nbsp;
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&center=true&vCenter=true&lines=Data+Science+Enthusiast;Machine+Learning+Explorer;Always+Learning+New+Things">
