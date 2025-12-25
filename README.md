@@ -15,8 +15,7 @@
 
 - 💻 I’m currently pursuing **M.Sc. in Data Science**  
 - 📖 Currently focused on **Data Analysis Projects, Mathematics, Statistics, and Machine Learning**
-- 📊 I enjoy working with **real-world datasets** and creating meaningful insights   
-- ⚡ Fun fact: I’m a Gamer 🎮 (BGMI & strategy-based games lover)  
+- 📊 I enjoy working with **real-world datasets** and creating meaningful insights    
 - 🎯 Goal: To become a skilled **Data Scientist** who solves real-world problems
 - 💬 Ask me about **Data Science & Web Development** 
 
