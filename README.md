@@ -67,9 +67,13 @@
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YaadavAkhilesh&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YaadavAkhilesh&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaadavAkhilesh&layout=compact&theme=radical" alt="Top Languages" height="150" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YaadavAkhilesh&show_icons=true&theme=tokyonight&cache_seconds=86400" height="150"/>
+  <!-- Streak Stats (updated domain) -->
+  <img src="https://streak-stats.demolab.com?user=YaadavAkhilesh&theme=tokyonight" height="150"/>
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaadavAkhilesh&layout=compact&theme=radical&cache_seconds=86400" height="150"/>
+
 </p>
 
 <p align="center">
