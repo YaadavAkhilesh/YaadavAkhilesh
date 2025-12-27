@@ -66,14 +66,14 @@
 ---
 
 ### 📊 GitHub Analytics
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats-mu-sable-92.vercel.app/api?username=YaadavAkhilesh&show_icons=true&theme=tokyonight" height="150"/>
-  <!-- Streak Stats (updated domain) -->
-  <img src="https://streak-stats.demolab.com?user=YaadavAkhilesh&theme=tokyonight" height="150"/>
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats-mu-sable-92.vercel.app/api/top-langs/?username=YaadavAkhilesh&layout=compact&theme=radical" height="150"/>
-</p>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=YaadavAkhilesh&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=YaadavAkhilesh&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=YaadavAkhilesh&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YaadavAkhilesh&theme=react-dark"/>
