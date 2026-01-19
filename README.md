@@ -64,6 +64,18 @@
 | **Quick Invoice** | React, Node.js, MongoDB, Razorpay, OTP Auth | Web app for vendors to create & manage invoices | [Repo](https://github.com/YaadavAkhilesh/Quick-Invoice) |
 | **FreelaxPro** | HTML, CSS, JS, PHP, MySQL | Freelancing platform for projects & services | [Repo](https://github.com/YaadavAkhilesh/Freelance-Management-Platform) |
 
+
+
+### 🔥 Featured Data Analysis Projects
+
+| Project | Tools & Skills | What I Did | Link |
+|-------|---------------|-----------|------|
+| **Walmart Sales Analysis** | Python, SQL, Pandas, Power BI | Cleaned sales data, analyzed branch-wise performance, and built an interactive dashboard for business insights | [Repo](https://github.com/YaadavAkhilesh/Walmart-Analysis-Python-SQL-PowerBI) |
+| **Uber Rides Analysis** | Python, Pandas, Matplotlib, Seaborn | Analyzed ride patterns by time, location, and demand to identify peak usage trends | [Repo](https://github.com/YaadavAkhilesh/Uber-Rides-Analysis) |
+| **E-Commerce Data Analysis** | Python, Pandas, EDA, Visualization | Analyzed sales trends, customer behavior, and delivery performance using real-world e-commerce data | [Repo](https://github.com/YaadavAkhilesh/E-Commerce-Analysis) |
+| **Amazon Prime Video Dashboard** | Power BI, Excel | Designed an interactive dashboard to analyze content distribution, genres, and ratings | [Repo](https://github.com/YaadavAkhilesh/Amazon-Prime-Video-PowerBi-Dashboard) |
+| **Cognifyz Data Analysis Internship Project** | Python, Data Analysis | Completed real-world analytical tasks as part of a structured internship program | [Repo](https://github.com/YaadavAkhilesh/Cognifyz-Data-Analysis-Internship-Project) |
+
 ---
 
 ### 📊 GitHub Analytics
