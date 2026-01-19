@@ -56,18 +56,6 @@
 
 ### 🔥 Featured Projects
 
-| Project | Tech Stack | Description | Link |
-|---------|------------|-------------|------|
-| **E-Commerce Analysis** | Python, Pandas, EDA, Visualization | Analyzed sales trends, customer behavior, and delivery performance using real-world e-commerce data |  [Repo](https://github.com/YaadavAkhilesh/E-Commerce-Analysis) |
-| **Indian Startup Funding Analysis** | Python, Pandas, EDA, Visualization | Explored startup funding trends across sectors and cities in India using cleaned public datasets |  [Repo](https://github.com/YaadavAkhilesh/Indian-Statup-Funding-Analysis) |
-| **Public Data Dashboard** | Power BI, Excel, Public Datasets | Built interactive dashboards to visualize key metrics and support data-driven decision-making | [Repo](https://github.com/YaadavAkhilesh/Public-Data-Dashboard) |
-| **Quick Invoice** | React, Node.js, MongoDB, Razorpay, OTP Auth | Web app for vendors to create & manage invoices | [Repo](https://github.com/YaadavAkhilesh/Quick-Invoice) |
-| **FreelaxPro** | HTML, CSS, JS, PHP, MySQL | Freelancing platform for projects & services | [Repo](https://github.com/YaadavAkhilesh/Freelance-Management-Platform) |
-
-
-
-### 🔥 Featured Data Analysis Projects
-
 | Project | Tools & Skills | What I Did | Link |
 |-------|---------------|-----------|------|
 | **Walmart Sales Analysis** | Python, SQL, Pandas, Power BI | Cleaned sales data, analyzed branch-wise performance, and built an interactive dashboard for business insights | [Repo](https://github.com/YaadavAkhilesh/Walmart-Analysis-Python-SQL-PowerBI) |
